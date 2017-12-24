@@ -1,0 +1,4 @@
+GET https://ec-test.ktb.com.tw/ktb/member/list HTTP/1.1
+
+###
+GET https://ktb.apiplus.tw/ktb/member/list HTTP/1.1
